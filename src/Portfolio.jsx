@@ -649,14 +649,6 @@ const Portfolio = () => {
           </p>
         </div>
       </footer>
-
-      <style>
-        {`
-          html {
-            scroll-behavior: smooth;
-          }
-        `}
-      </style>
     </div>
   );
 };
